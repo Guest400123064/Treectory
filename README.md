@@ -20,12 +20,12 @@ python3 main.py 1
 To see tree number increases, run
 ```
 python3 main.py 2
-
 ```
 To extract pc power consumption, run (this feature only works in Windows 8 or 10)
 ```
 python3 pc.py
 ```
+![](demo.gif)
 
 ## Further improvement
 
