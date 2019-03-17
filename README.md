@@ -43,8 +43,13 @@ python3 pc.py
 
 ### Just for fun
 
-Thanks to the great potential of Unreal Engine 4, this program can also be adapted to TPS game. Users can invite others into their maps, or they can invite others into their maps for combat. The randomized allocation of trees not only just for landscape view, they can also strategically places tree to change terrain features to gain advantages.  
+Thanks to the great potential of Unreal Engine 4, this program can also be adapted to TPS game. Users can invite others into their maps, or they can invite others into their maps for combat. The randomized allocation of trees not only just for landscape view, they can also strategically places tree to change terrain features to gain advantages.
 
 ![](futureUpdate.gif)
+
+Moreover, a dynamic weather system may also be implemented in the future.
+
+![](WINTER.png)
+
 
 
