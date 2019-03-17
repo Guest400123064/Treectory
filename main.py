@@ -2,6 +2,7 @@ import sys
 import json
 import datetime
 import math
+import os
 
 
 def kwhToTree(kwh: float)-> float:
@@ -57,6 +58,7 @@ def main(argc: int, argv: list)-> int:
 
         # Do not update in the same day if updated
         if TREE_LOG["date"] == str(datetime.date.today()):
+            os.startfile(".\\visual\\WindowsNoEditor\\Demo.exe")            
             return 0
 
         x_today = list()
@@ -89,6 +91,8 @@ def main(argc: int, argv: list)-> int:
 
     with open("visual\\temp.txt", 'w') as tmp:
         tmp.write("{:}\n{:}".format(math.floor(last_log), math.floor(TREE_LOG["num_tree"])))
+
+    os.startfile(".\\visual\\WindowsNoEditor\\Demo.exe")
 
     return 0
 
