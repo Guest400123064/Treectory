@@ -31,8 +31,9 @@ python3 pc.py
 
 ### Data
 	
-With the development and popularization of the smarthome, we can gain more energy consuming data on other devices, such as lighting, cooling, and heating systems. For example,  we can get Tesla’s, air conditioner’s, heater’s real time electricity consumption. Other form of energy using can also take into account, such as fuel, water
-With a more sophisticated database, we can generate energy consumption reports, perform series of statistical analysis, and predict energy consumption trends in both micro and macro scopes.
+1. With the development and popularization of the smarthome, we can gain more energy consuming data on other devices, such as lighting, cooling, and heating systems. For example,  we can get Tesla’s, air conditioner’s, heater’s real time electricity consumption. Other form of energy using can also take into account, such as fuel, water
+2. With a more sophisticated database, we can generate energy consumption reports, perform series of statistical analysis, and predict energy consumption trends in both micro and macro scopes.
+
 
 ### Visualization (with preview)
 1. We can add more elements and environments, such as decorations on trees (act like skin in games), factories, outer-space exploration in our app. We can also implement a complete incentive mechanism to make the game more interactive which will motivate the users to save more energy or buy the features they want. Some of the profits can be donated to the environmental friendly charity.
