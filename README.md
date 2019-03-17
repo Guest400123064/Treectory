@@ -35,11 +35,10 @@ With the development and popularization of the smarthome, we can gain more energ
 With a more sophisticated database, we can generate energy consumption reports, perform series of statistical analysis, and predict energy consumption trends in both micro and macro scopes.
 
 ### Visualization (with preview)
-We can add more elements and environments, such as decorations on trees (act like skin in games), factories, outer-space exploration in our app. We can also implement a complete incentive mechanism to make the game more interactive which will motivate the users to save more energy or buy the features they want. Some of the profits can be donated to the environmental friendly charity.
-Due to limited time, we only visualize the data on the UE4 which requires a high performance computer to run. We can also implement the game on mobile phones or other portable devices.
+1. We can add more elements and environments, such as decorations on trees (act like skin in games), factories, outer-space exploration in our app. We can also implement a complete incentive mechanism to make the game more interactive which will motivate the users to save more energy or buy the features they want. Some of the profits can be donated to the environmental friendly charity.
+2. Due to limited time, we only visualize the data on the UE4 which requires a high performance computer to run. We can also implement the game on mobile phones or other portable devices.
 
 ### Just for fun
 
-The program can also be adapted to FPS game. Users plant the trees not only just for landscape view, they can also strategically places tree to change terrain features to gain advantages.  
-
+The program can also be adapted to TPS game. Users can invite others into their maps, or they can invite others into their maps for combat. The randomized allocation of trees not only just for landscape view, they can also strategically places tree to change terrain features to gain advantages.  
 
