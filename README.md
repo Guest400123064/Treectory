@@ -6,7 +6,7 @@ Our Treectory app is to raise people’s awareness of  energy saving by giving t
  We first extract energy consumption data from different devices’ application programming interface(API). Take a PC for example, we generate a detailed battery usage report as a .xml file.
  We uses the relationship between the electricity consumption and how many trees are needed to offset the negative effects. We also implemented a mathematical model to calculate changes of the tree total: current energy consumption is compared average consumption of all users from the database. Each factor is carefully assigned with a weight.
  
- Demo Video: [![Demo](https://img.youtube.com/vi/<FXXF8b94iDQ>/maxresdefault.jpg)](https://youtu.be/FXXF8b94iDQ)
+ Demo Video: [![Demo](https://i.ytimg.com/vi/FXXF8b94iDQ/hqdefault.jpg)](https://youtu.be/FXXF8b94iDQ)
 
 
 ## Install
