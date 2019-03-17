@@ -1,0 +1,22 @@
+{
+    "car": {
+        "today": 7.1,
+        "average_previous_week": 7.5,
+        "average_grand": 7.6,
+        "average_this_week": 7.8
+    },
+
+    "pc": {
+        "today": 0.1,
+        "average_previous_week": 0.15,
+        "average_grand": 0.09,
+        "average_this_week": 0.1
+    },
+
+    "ac": {
+        "today": 4,
+        "average_previous_week": 3.5,
+        "average_grand": 5,
+        "average_this_week": 4.1
+    }
+}
