@@ -11,6 +11,8 @@ Our Treectory app is to raise people’s awareness of  energy saving by giving t
 Our program is only compatible with python 3 for now and contains two test/show cases. 
 `clone` or `download` the whole repository as zip file. 
 
+Due to the upload limitation of Github, the visualization module(UE4 part) has to be downloaded from the following Google Drive link https://drive.google.com/open?id=1K5HhHaj8vBUi2Ef9qB38Sa0u655frgdS. After downloading, unzip this file and replace the original visual folder.
+
 ## Beta Test
 
 To see tree number decreases, run
